@@ -82,4 +82,9 @@ input {
       background-color: black;
       color: green;
       border-radius: 50%;
+      font-size: 30px;
+  }
+  button:hover{
+      background-color:purple;
+      color: yellow;
   }
