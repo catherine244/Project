@@ -78,3 +78,7 @@ input {
     width: 50%;
     height: 50%;
   }
+  button{
+      background-color: black;
+      color: green;
+  }
