@@ -73,6 +73,7 @@ P{
 }
 #contacts{
     margin: 24px 0;
+    background-color: seagreen;
 }
 input {
     width: 50%;
@@ -91,6 +92,6 @@ input {
 #footer{
     font-size: 40px;
 }
-@media screen and (min-width: 480px) {
-    
+@media screen and (min-width: 100px) {
+
 }
