@@ -91,3 +91,6 @@ input {
 #footer{
     font-size: 40px;
 }
+@media screen and (min-width: 480px) {
+    
+}
