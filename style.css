@@ -68,7 +68,7 @@ P{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 150vh;
     background-image: url("https://bit.ly/35KQO9T");
 }
 #contacts{
@@ -82,7 +82,7 @@ input {
   button{
       background-color: black;
       color: green;
-      border-radius: 50%;
+      border-radius: 50%;95
       font-size: 30px;
   }
   button:hover{
