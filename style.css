@@ -54,7 +54,7 @@ h2{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 70vh;
     background-color: purple;
 }
 P{
@@ -68,12 +68,13 @@ P{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 150vh;
+    height: 70vh;
     background-image: url("https://bit.ly/35KQO9T");
 }
 #contacts{
     margin: 24px 0;
     background-color: blue;
+    height: 40vh;
 }
 input {
     width: 50%;
