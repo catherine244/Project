@@ -1,5 +1,5 @@
 # Project Name
-- Project
+- My Portfolio
 ## Project Author
  - Catherine Nduku
  ## Technologies 
