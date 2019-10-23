@@ -7,6 +7,8 @@
  - css
 ## Description
 - My portfolio is a website that explains more about me and also contains  a previous project that i had done before .
+## Project screenshot
+  <img src="project.jpg" alt="pictures">;
 ## Setup Instruction
 - Internet connection is required for the website to load
 ## known bugs
